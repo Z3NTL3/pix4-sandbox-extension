@@ -1,0 +1,17 @@
+{
+    "minimum":{
+        "message": "En az 1 karakter gereklidir!"
+    },
+    "failed": {
+        "message": "API'ye veri gönderilemedi"
+    },
+    "titel": {
+        "message": "Kodunuzu paylaşın!"
+    },
+    "create": {
+        "message": "Sandbox Oluşturun"
+    },
+    "sandbox": {
+        "message": "SandBox'ı ziyaret edin"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "minimum":{
+        "message": "Minimum of 1 CHAR on your code !"
+    },
+    "failed": {
+        "message": "Failed to send DATA to the API"
+    },
+    "titel": {
+        "message": "Share your code!"
+    },
+    "create": {
+        "message": "Create Sandbox"
+    },
+    "sandbox": {
+        "message": "Visit SandBox"
+    }
+}

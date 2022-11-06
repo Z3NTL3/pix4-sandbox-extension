@@ -1,0 +1,17 @@
+{
+    "minimum":{
+        "message": "Minimaal 1 karakter vereist!"
+    },
+    "failed": {
+        "message": "Mislukt om data te versturen naar API"
+    },
+    "titel": {
+        "message": "Deel je code!"
+    },
+    "create": {
+        "message": "Creëer Sandbox"
+    },
+    "sandbox": {
+        "message": "Bezoek SandBox"
+    }
+}
